@@ -11,8 +11,8 @@ public class ListItems {
         sports.add("Football");
         sports.add("Basketball");
         sports.add("Hockey");
-        sports.add(1, "Baseball");
-        sports.add(0, "Soccer");
+        sports.add("Baseball");
+        sports.add("Soccer");
 
         System.out.println(sports);
 
